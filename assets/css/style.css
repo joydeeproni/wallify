@@ -28,10 +28,8 @@ theme.
 	14. Contact page
 
 */
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,900,300);
+
 @import 'https://fonts.googleapis.com/css?family=Roboto:400,700';
-
-
 
 /* --------------------------------
 
@@ -1633,7 +1631,7 @@ footer a:hover {
 		font-weight: 400;
 		text-transform: uppercase;
 		color:#000;
-		font-size: 20px;
+		font-size: 15px;
 		-webkit-transform:translateY(20px);
 	    -ms-transform:translateY(20px);
 	        transform:translateY(20px);

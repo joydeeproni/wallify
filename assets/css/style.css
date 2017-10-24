@@ -915,7 +915,7 @@ ul.tags li a:hover{
     display: table;
     height: 100vh;
     width: 100%;
-    background-image: url(https://media.giphy.com/media/l1J9LgAd8XuoNNA7S/giphy.gif);
+    background-image: url(../img/header.jpg);
 		background-attachment: fixed;
     background-position: center center;
     -webkit-background-size: cover;
@@ -1688,6 +1688,7 @@ footer a:hover {
 		text-transform: uppercase;
 		letter-spacing: 2px;
 		z-index: 1;
+		visibility: hidden;
 }
 
 .team h3{
@@ -2387,7 +2388,7 @@ ul.services-list li{
     background: transparent;
     border-bottom: 1px solid #ddd;
     color: #000;
-    font-size: 12px;
+    font-size: 16px;
     letter-spacing: 1px;
     font-weight: 300;
     border-radius: 0px;
@@ -2404,7 +2405,7 @@ ul.services-list li{
     background: transparent;
     border-bottom: 1px solid #ddd;
     color: #000;
-    font-size: 12px;
+    font-size: 16px;
     letter-spacing: 1px;
     font-weight: 300;
 }
@@ -2420,7 +2421,7 @@ ul.services-list li{
     background: transparent;
     border-bottom: 1px solid #ddd;
     color: #000;
-    font-size: 12px;
+    font-size: 16px;
     letter-spacing: 1px;
     font-weight: 300
 }
@@ -2436,7 +2437,7 @@ ul.services-list li{
     background: transparent;
     border-bottom: 1px solid #ddd;
     color: #000;
-    font-size: 12px;
+    font-size: 16px;
     letter-spacing: 1px;
     font-weight: 300;
 }

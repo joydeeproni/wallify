@@ -1510,6 +1510,7 @@ footer a:hover {
     font-size: 15px;
     line-height: 2;
     color: #000;
+		font-family: 'Raleway',sans-serif;
 }
 
 .services i {
@@ -2336,9 +2337,9 @@ ul.services-list li{
 }
 
 .site-hero-contact h2{
-		color: #777;
+		color: white;
     text-transform: uppercase;
-    font-size: 25px;
+    font-size: 45px;
     line-height: 2;
     letter-spacing: 10px
 }
